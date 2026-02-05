@@ -24,8 +24,11 @@ This portfolio showcases advanced projects in **Applied Artificial Intelligence*
 - Data processing and prompt engineering
 - Delivers summaries and trend analyses via API
 
-### [Healthcare Multimodal Agent (SERGAS)](./healthcare-agent) 🏥
-**R&D project for automating medical scheduling and data integration using NLU and secure APIs.**
+### [Public Healthcare Agent](./healthcare-agent) 🏥
+**Conversational AI agent for medical appointment management in public health systems.**
+- Bilingual (Galician/Spanish) voice interface
+- Real-time scheduling, patient validation, and SQL integration
+- Modular AI stack: LLM, STT, TTS, Docker-ready
 
 ### [Urban Waste & Energy Analytics Dashboard (Power BI)](./urban-waste-energy-dashboard) 🗑️⚡
 **Power BI dashboard for visualizing and analyzing urban waste and energy recovery data.**
