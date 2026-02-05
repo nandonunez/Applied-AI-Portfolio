@@ -16,7 +16,7 @@ graph LR
         F --> G[Client Databases]
 ```
 
----
+
 
 ## 🔍 Overview
 
@@ -28,7 +28,7 @@ This project delivers a robust pipeline for wind energy production forecasting, 
 3. **Modeling:** Trains ensemble models (XGBoost, LightGBM) with time-series cross-validation for robust forecasting.
 4. **Results Delivery:** Forecast outputs are delivered directly to client databases via secure API integration.
 
----
+
 
 
 ## 🎯 Impact
@@ -37,7 +37,7 @@ This project delivers a robust pipeline for wind energy production forecasting, 
 * **Solution:** The system enables anticipation of production valleys and optimal scheduling of maintenance tasks, improving operational efficiency and grid integration.
 * **Application:** Used to coordinate maintenance teams and optimize wind asset availability, supporting data-driven decision making.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -47,13 +47,13 @@ This project delivers a robust pipeline for wind energy production forecasting, 
 * **GIS & Terrain:** QGIS, rasterio
 * **Formats:** GRIB, NetCDF, Parquet
 
----
+
 
 
 ## 📡 Results Delivery
 
 Forecast results are delivered directly to client databases via secure API integration. No visual plots or images are stored in this repository; all outputs are programmatically accessible for operational use.
 
----
+
 
 **Note:** This repository is for technical demonstration and does not include sensitive data or proprietary code.

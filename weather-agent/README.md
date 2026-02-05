@@ -29,7 +29,7 @@ graph LR
     F --> G
 ```
 
----
+
 
 ## 🔍 Overview
 
@@ -41,7 +41,7 @@ This project implements an autonomous agent that generates professional, human-r
 3. **Text Generation:** Uses OpenAI GPT to generate professional weather summaries, comparisons between locations or time periods, and trend analyses based on user queries.
 4. **Delivery:** Results are delivered to client databases via API for integration into dashboards or automated workflows.
 
----
+
 
 
 ## 🎯 Impact
@@ -50,7 +50,7 @@ This project implements an autonomous agent that generates professional, human-r
 * **Solution:** The agent translates complex atmospheric data into clear, actionable reports, facilitating communication and decision-making in critical situations.
 * **Application:** Used by civil protection and emergency management teams to obtain fast, understandable weather summaries during adverse events.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -60,13 +60,13 @@ This project implements an autonomous agent that generates professional, human-r
 * **Deployment:** Python scripts, Jupyter Notebooks
 * **Formats:** JSON, ENV
 
----
+
 
 ## 📡 Results Delivery
 
 Weather summaries are delivered directly to client databases via secure API integration. No visual plots or images are stored in this repository; all outputs are programmatically accessible for operational use.
 
----
+
 
 ## Example Output
 
@@ -76,6 +76,6 @@ Weather summaries are delivered directly to client databases via secure API inte
 
 > "Trend: Over the past month, Santiago de Compostela has seen a gradual increase in daily average temperature, with precipitation remaining stable."
 
----
+
 
 **Note:** This repository is for technical demonstration and does not include sensitive data or proprietary code.

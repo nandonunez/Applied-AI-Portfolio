@@ -25,7 +25,7 @@ graph LR
 ## 🔍 Overview
 
 This system leverages global weather forecasts (GFS) and historical wildfire data to deliver operational wildfire risk predictions. Using a Self-Organizing Map (SOM), the pipeline classifies meteorological patterns and assigns risk indices based on historical fire occurrence and severity. The results are mapped to actionable risk categories and delivered via API for integration into client systems.
-
+ 
 ### **Key Features**
 - **Automated Data Pipeline:** Downloads and processes the latest GFS weather data for any region of interest.
 - **Flexible Configuration:** Easily adjust variables, levels, and region in the config file.
@@ -39,7 +39,7 @@ This system leverages global weather forecasts (GFS) and historical wildfire dat
 3. **Pattern Classification:** Applies a pre-trained SOM to classify the current forecast into a climate pattern.
 4. **Risk Index Assignment:** Assigns a risk index to the pattern using historical fire data and neuron assignment.
 5. **Risk Mapping & Delivery:** Maps the risk index to a category and delivers the result via API to client databases.
-
+ 
 ---
 
 
