@@ -18,6 +18,12 @@ This portfolio showcases advanced projects in **Applied Artificial Intelligence*
 - Feature engineering and ensemble ML models
 - Results delivered via API to client databases
 
+### [Standalone PV Sizing via LLP](./pv-llp-sizing) ☀️
+**Design framework for off-grid photovoltaic system sizing using Loss of Load Probability (LLP).**
+- Compute isoreliability curves from measured irradiation and real demand
+- Sensitivity to frequency, climate variability, and consumption mode
+- Cost-aware optimal region in low-storage/high-production quadrant
+
 ### [Autonomous LLM Meteorological Agent](./weather-agent) ☁️
 **LLM-powered agent for generating professional weather summaries and comparisons from raw meteorological data.**
 - Connects to external weather APIs
